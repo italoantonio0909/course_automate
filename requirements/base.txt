@@ -1,0 +1,4 @@
+django ==3.2
+psycopg2 == 2.8.6
+selenium == 3.141.0
+django-environ == 0.4.5
